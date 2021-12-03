@@ -83,9 +83,9 @@ def main():
    
     user_entry = input("Type 'menu' to view options or 'quit' to exit: ")
     # keep getting input if user does not type one of the two valid options
-    while user_entry != 'menu' and res != 'quit':
+    while user_entry != 'menu' and user_entry != 'quit':
         print('Invalid choice, please try again.')
-        res = input("Type 'menu' to view options or 'quit' to exit: ")
+        user_entry = input("Type 'menu' to view options or 'quit' to exit: ")
 
     if user_entry == 'menu':
         
