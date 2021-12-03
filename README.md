@@ -1,6 +1,5 @@
 # Zendesk Coding Challenge 2022 - TicketViewer App
 
-
 Environment Requirements\n
 Python 3 \n
 python -m pip install requests (for requests package)
