@@ -123,11 +123,11 @@ def main():
                     response.raise_for_status()
 
                 except requests.exceptions.HTTPError as errh:
-                    print ("Http Error:",errh)
+                    print ("Http Error: Please check the credentails or ticket id you provided.",errh)
                     exit(1)
 
                 except requests.exceptions.ConnectionError as errc:
-                    print ("Error Connecting to API:",errc)
+                    print ("Connetion Error:",errc)
                     exit(1)
 
                 except requests.exceptions.Timeout as errt:
@@ -135,7 +135,7 @@ def main():
                     exit(1)
 
                 except requests.exceptions.RequestException as err:
-                    print ("OOps: Something Else",err)
+                    print ("Error Connecting to API server",err)
                     exit(1)
  
                   
