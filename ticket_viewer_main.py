@@ -127,7 +127,7 @@ def main():
                     exit(1)
 
                 except requests.exceptions.ConnectionError as errc:
-                    print ("Error Connecting:",errc)
+                    print ("Error Connecting to API:",errc)
                     exit(1)
 
                 except requests.exceptions.Timeout as errt:
