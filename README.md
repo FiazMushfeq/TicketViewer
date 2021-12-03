@@ -1,5 +1,7 @@
 # Zendesk Coding Challenge 2022 - TicketViewer App
 
+## TicketViewer is a Python command line utility for interacting with Zendesk Ticketing system. The application interfaces with ZenDdsk’s tickets API server to provide the list of ticket or the details of a particular ticket to the user.
+
 ### Environment Requirements
 * Python 3 
 * python -m pip install requests (for requests package)
