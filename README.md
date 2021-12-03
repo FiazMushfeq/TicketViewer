@@ -22,7 +22,7 @@
 * You will be presnted with choices for viewing all your tickets or a single ticket. 
 * If you choose 1 (All Tickets) : 25 tickets will be displayed at at time, and you can press N/n to navigate through more tickets
 * If you choose 2 (Single Ticket): you will be asked to provide ID of a single ticket.
-* Run 'python ticket_viewer_test.py' for running unit tests
+* Run 'python ticket_viewer_test.py' for running unit tests after providing the credentials
 
 
 ## Screen Shots of TicketViewer Utility
