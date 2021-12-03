@@ -25,11 +25,10 @@
 ## Screen Shots of TicketViewer Utility
 
 ### First page of all tickets
-<img src="https://user-images.githubusercontent.com/38337054/144528513-9de497de-dc31-4fc9-aa3f-5a5d7e34c324.JPG" width="400" height="400">
+<img src="https://user-images.githubusercontent.com/38337054/144528513-9de497de-dc31-4fc9-aa3f-5a5d7e34c324.JPG" width="600" height="400">
 
 ### All tickets (continued)
-![Viewing_all_tickets_page2](https://user-images.githubusercontent.com/38337054/144538309-8f88f1b6-19d7-4e00-a224-48dddd378612.JPG)
-
+<img src="https://user-images.githubusercontent.com/38337054/144538309-8f88f1b6-19d7-4e00-a224-48dddd378612.JPG" width="600" height="400">
 
 ### Displaying details of a single ticket
-![Viewing_single_ticket](https://user-images.githubusercontent.com/38337054/144538338-fdcb2720-6674-41cc-818a-4aa1d65baead.JPG)
+<img src="https://user-images.githubusercontent.com/38337054/144538338-fdcb2720-6674-41cc-818a-4aa1d65baead.JPG" width="600" height="400">
