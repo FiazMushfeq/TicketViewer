@@ -24,4 +24,4 @@
 
 ### Screen Shots of TicketViewer Utility
 
-![Viewing_all_tickets](https://user-images.githubusercontent.com/38337054/144528513-9de497de-dc31-4fc9-aa3f-5a5d7e34c324.JPG)
+![Viewing_all_tickets](https://user-images.githubusercontent.com/38337054/144528513-9de497de-dc31-4fc9-aa3f-5a5d7e34c324.JPG = 450X450)
