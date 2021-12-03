@@ -19,7 +19,7 @@
 * You will be prompted for your email, password and subdomain (e.g. zccfirstlast) associated with your zendesk account
 * You will be presnted with choices for viewing all your tickets or a single ticket. 
 * If you choose 1 (All Tickets) : 25 tickets will be displayed at at time, and you can press N/n to navigate through more tickets
-* If you choose 2 (Single Ticket): you will be asked to provide the id of a singe ticket.
+* If you choose 2 (Single Ticket): you will be asked to provide the id of a single ticket.
 
 
 ## Screen Shots of TicketViewer Utility
